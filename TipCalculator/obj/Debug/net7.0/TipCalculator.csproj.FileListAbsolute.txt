@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.csproj.AssemblyReference.cache
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.AssemblyInfo.cs
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Programming/TipCalculator/bin/Debug/net7.0/TipCalculator
+/Users/meghanpatnode/Programming/TipCalculator/bin/Debug/net7.0/TipCalculator.deps.json
+/Users/meghanpatnode/Programming/TipCalculator/bin/Debug/net7.0/TipCalculator.runtimeconfig.json
+/Users/meghanpatnode/Programming/TipCalculator/bin/Debug/net7.0/TipCalculator.dll
+/Users/meghanpatnode/Programming/TipCalculator/bin/Debug/net7.0/TipCalculator.pdb
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.dll
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/refint/TipCalculator.dll
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.pdb
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/TipCalculator.genruntimeconfig.cache
+/Users/meghanpatnode/Programming/TipCalculator/obj/Debug/net7.0/ref/TipCalculator.dll

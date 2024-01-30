@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.csproj.AssemblyReference.cache
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.AssemblyInfo.cs
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Programming/StoreFrontCode/bin/Debug/net7.0/StoreFrontCode
+/Users/meghanpatnode/Programming/StoreFrontCode/bin/Debug/net7.0/StoreFrontCode.deps.json
+/Users/meghanpatnode/Programming/StoreFrontCode/bin/Debug/net7.0/StoreFrontCode.runtimeconfig.json
+/Users/meghanpatnode/Programming/StoreFrontCode/bin/Debug/net7.0/StoreFrontCode.dll
+/Users/meghanpatnode/Programming/StoreFrontCode/bin/Debug/net7.0/StoreFrontCode.pdb
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.dll
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/refint/StoreFrontCode.dll
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.pdb
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/StoreFrontCode.genruntimeconfig.cache
+/Users/meghanpatnode/Programming/StoreFrontCode/obj/Debug/net7.0/ref/StoreFrontCode.dll
